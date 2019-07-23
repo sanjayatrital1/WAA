@@ -57,7 +57,7 @@ public class AuthenticationServlet extends HttpServlet {
 			writer.println("<head><meta charset=\"ISO-8859-1\"><title>Insert title here</title></head>");
 
 			writer.println("<body><h2>Login Successful</h2>");
-			writer.println("<p /><form action=\"login\" method=\"get\">");
+			writer.println("<p /><form action=\"advice\" method=\"get\">");
 			writer.println("<input type = \"submit\" value = \"Back\"/>");
 			writer.println("</form>	</body>	</html>");
 	//		response.sendRedirect("../LoginSuccessful.html");			

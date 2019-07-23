@@ -10,7 +10,7 @@
 </head>
 <body>
 <h2>Starbuck's ${param["roast"]} Roast Coffees:</h2>
-<form action="action/advice" method="get">
+<form action="advice" method="get">
 
     <table >
         <c:forEach var="coffee" items="${roastList}" varStatus="status">

@@ -1,12 +1,24 @@
 <!DOCTYPE html>
-<head><meta charset="ISO-8859-1"><title>Insert title here</title></head>
-<body><h2>Ask for advise about your favorite roast</h2>
-<form action="action/advice" method="get">
-    <select name="roast">
-        <option value="-">--Choose Roast--</option>
-        <option value="dark">Dark</option>
-        <option value="medium">Medium</option>
-        <option value="light">Light</option>
-    </select><br/><br/>
-    <input type="submit" value="Submit"/><br/><br/>
-</form></body></html>
+<html>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
+<head>
+    <title>Starbuck's</title>
+</head>
+<body>
+<h2>Ask for advice about your favorite roast:</h2>
+<p />
+<form action = "advice" method="post">
+    <select name="roast"   >
+
+        <c:forEach var="roast" items="${roasts}">
+            <option value="${roast.value}" > ${roast.key}</option>
+        </c:forEach>
+
+    </select>
+
+    <p><input type="submit" value = "Submit"/></p>
+</form>
+
+</body>
+</html>
