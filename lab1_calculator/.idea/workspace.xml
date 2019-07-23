@@ -35,6 +35,7 @@
       <change afterPath="$PROJECT_DIR$/../../Lab10-AOP-2/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Lab10-AOP-2/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Lab10-AOP-2/W1D3-AOP-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_starbucks/lab1_starbucks.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/.idea/vcs.xml" afterDir="false" />
@@ -60,8 +61,6 @@
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/src/main/webapp/WEB-INF/view/carDetail.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/src/main/webapp/WEB-INF/view/carList.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mum/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mum/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../cstechservlet" beforeDir="false" afterPath="$PROJECT_DIR$/../../cstechservlet" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab6JPQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6JPQL/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab6JPQL/lab6JPQL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6JPQL/lab6JPQL.iml" afterDir="false" />
@@ -85,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/mum/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="181">
-              <caret line="82" column="69" lean-forward="true" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
+              <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            <state relative-caret-position="288">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -120,7 +119,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -346,18 +345,18 @@
       <option name="presentableId" value="Default" />
       <updated>1563849311597</updated>
       <workItem from="1563849320422" duration="3080000" />
-      <workItem from="1563885175081" duration="1015000" />
+      <workItem from="1563885175081" duration="1737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4095000" />
+    <option name="totallyTimeSpent" value="4817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -367,7 +366,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,13 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/calculator.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -422,7 +414,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/mum/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
-          <caret line="82" column="69" lean-forward="true" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
+          <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -431,8 +423,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
