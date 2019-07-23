@@ -35,7 +35,6 @@
       <change afterPath="$PROJECT_DIR$/../../Lab10-AOP-2/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Lab10-AOP-2/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Lab10-AOP-2/W1D3-AOP-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab1_starbucks/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/.idea/vcs.xml" afterDir="false" />
@@ -60,10 +59,8 @@
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/src/main/webapp/WEB-INF/view/bookList.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/src/main/webapp/WEB-INF/view/carDetail.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/src/main/webapp/WEB-INF/view/carList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab1_starbucks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../cstechservlet" beforeDir="false" afterPath="$PROJECT_DIR$/../../cstechservlet" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab6JPQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6JPQL/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab6JPQL/lab6JPQL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6JPQL/lab6JPQL.iml" afterDir="false" />
@@ -86,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mum/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
+            <state relative-caret-position="1258">
               <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -98,7 +95,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="306">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
@@ -172,8 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,13 +230,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab1_starbucks" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -349,17 +346,18 @@
       <updated>1563849311597</updated>
       <workItem from="1563849320422" duration="3080000" />
       <workItem from="1563885175081" duration="1811000" />
+      <workItem from="1563920123999" duration="246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4891000" />
+    <option name="totallyTimeSpent" value="5137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -400,6 +398,23 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mum/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -411,23 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mum/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
