@@ -73,8 +73,14 @@ public class Calculator extends HttpServlet {
 			if (mult2.isEmpty()) mult2 = "''";
 			product = "''";
 		}
+		request.setAttribute("add1",add1);
+		request.setAttribute("add2", add2);
+		request.setAttribute("mult1",mult1);
+		request.setAttribute("mult2",mult2);
+		request.setAttribute("product",product);
+		request.setAttribute("sum",sum);
 
-		RequestDispatcher dispatcher = request.getRequestDispatcher("../webapp/WEB-INF/jsp/result.jsp");
+		RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/jsp/result.jsp");
 		dispatcher.forward(request, response);
 	}
 

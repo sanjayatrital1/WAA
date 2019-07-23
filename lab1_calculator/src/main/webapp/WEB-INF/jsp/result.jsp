@@ -22,7 +22,7 @@
     <input name=product" type="text" class="textBox" readonly value=<c:out value="${product}"/>>
     <br>
 </form>
-<a href="calculator.do" class="button">Try Again</a>
+<a href="calc2" class="button">Try One More</a>
 
 
 </body>
