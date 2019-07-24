@@ -59,24 +59,6 @@
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/src/main/webapp/WEB-INF/view/bookList.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/src/main/webapp/WEB-INF/view/carDetail.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bookSpringMVC/src/main/webapp/WEB-INF/view/carList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/src/main/java/mum/edu/cs/AuthenticationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/src/main/java/mum/edu/cs/AuthenticationServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/src/main/webapp/WEB-INF/jsp/advice.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/src/main/webapp/WEB-INF/jsp/advice.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/classes/mum/edu/cs/AdviceServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/classes/mum/edu/cs/AdviceServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/classes/mum/edu/cs/AuthenticationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/classes/mum/edu/cs/AuthenticationServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/classes/mum/edu/cs/AdviceServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/classes/mum/edu/cs/AdviceServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/classes/mum/edu/cs/AuthenticationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/classes/mum/edu/cs/AuthenticationServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/jsp/advice.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/jsp/advice.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_starbucks/target/lab1_starbucks/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../cstechservlet" beforeDir="false" afterPath="$PROJECT_DIR$/../../cstechservlet" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab6JPQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6JPQL/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab6JPQL/lab6JPQL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6JPQL/lab6JPQL.iml" afterDir="false" />
@@ -371,7 +353,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

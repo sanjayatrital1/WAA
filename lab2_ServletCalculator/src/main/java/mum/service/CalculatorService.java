@@ -1,4 +1,8 @@
 package mum.service;
 
-public interface ICalculator {
+import mum.domain.Calculator;
+
+public interface CalculatorService {
+    public void add(Calculator calculator);
+    public void mult(Calculator calculator);
 }

@@ -1,61 +1,54 @@
 package mum.controller;
 
-import mum.edu.framework.annotation.Controller;
+import mum.domain.Calculator;
+//import mum.edu.framework.annotation.Controller;
+import mum.service.CalculatorService;
+import mum.validator.Validator;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.*;
+import org.springframework.ui.Model;
+
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.List;
 
 import javax.servlet.ServletException;
-//import javax.servlet.annotation.WebServlet;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @Controller
-public class CalculatorController extends HttpServlet {
-	private static final long serialVersionUID = 1L;
+public class CalculatorController {
+	@Autowired
+	private CalculatorService calculatorService;
+	@Autowired
+	private Validator validator;
 
-    public CalculatorController() {
-        super();
-        
-    }
+	@RequestMapping(value={"/","/Calculator"} , method = RequestMethod.POST)
+	public String handleCalculator(Calculator calculator, HttpServletRequest request) {
+		List<String> errors = validator.validate(calculator);
+		if (!errors.isEmpty()) {
+			request.setAttribute("error", errors);
+			return "/WEB-INF/jsp/calculator.jsp";
 
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
- 
-  		String add1 = request.getParameter("add1").trim() ;
-		String add2 = request.getParameter("add2").trim();
-		String mult1 = request.getParameter("mult1").trim();
-		String mult2 = request.getParameter("mult2").trim();
+		} else {
+			if (calculator.getAdd1() != null && calculator.getAdd2() != null) {
+				calculatorService.add(calculator);
+			}
+			if (calculator.getMult1() != null && calculator.getMult2() != null) {
+				calculatorService.mult(calculator);
+			}
 
-		String sum = "";
-		String product = "";
-		
-		// Check for valid inputs....
-		try {
-			Integer a1 = Integer.parseInt(add1);
-			Integer a2 = Integer.parseInt(add2);
-			sum = "" + (a1+a2);
-		} catch(NumberFormatException e) {
-			if (add1.isEmpty()) add1 = "''";
-			if (add2.isEmpty()) add2 = "''";
-			sum = "''";
-		}
-
-		
-		try {
-			Integer m1 = Integer.parseInt(mult1);
-			Integer m2 = Integer.parseInt(mult2);
-			product = "" + (m1 * m2);
-		} catch(NumberFormatException e) {
-			if (mult1.isEmpty()) mult1 = "''";
-			if (mult2.isEmpty()) mult2 = "''";
-			product = "''";
+			return "/WEB-INF/jsp/result.jsp";
 		}
 	}
 
-
-	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
+	@RequestMapping(value={"/","/Calculator"} , method = RequestMethod.GET)
+	public String getCalculator(Calculator calculator){
+		return "/WEB-INF/jsp/calculator.jsp";
 	}
 
 }
