@@ -7,15 +7,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35700b4-b51a-4e14-9386-80d9e9d54bda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/lab2_MVCCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/controller/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/domain/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/service/CalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/service/CalculatorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/validator/CalcValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/validator/CalcValidatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/service/CalculatorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/service/CalculatorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/validator/CalcValidatorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/validator/CalcValidatorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/webapp/WEB-INF/jsp/calculator.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/webapp/WEB-INF/jsp/calculator.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/webapp/WEB-INF/jsp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/webapp/WEB-INF/jsp/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/service/CalculatorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/service/CalculatorServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/validator/CalcValidatorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/validator/CalcValidatorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator.war" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/service/CalculatorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/service/CalculatorServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/validator/CalcValidatorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/validator/CalcValidatorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/jsp/calculator.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/jsp/calculator.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/jsp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/jsp/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/lib/spring-aop-5.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/lib/spring-beans-5.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/lib/spring-context-5.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/lib/spring-core-5.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/lib/spring-expression-5.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/lib/spring-jcl-5.1.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mum/controller/CalculatorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mum/domain/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mum/service/CalculatorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mum/service/CalculatorServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mum/validator/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mum/validator/ValidatorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/calculator.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mum/controller/CalculatorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mum/domain/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mum/service/CalculatorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mum/service/CalculatorServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mum/validator/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mum/validator/ValidatorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/classes/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/classes/mum/controller/CalculatorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/classes/mum/domain/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/classes/mum/service/CalculatorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/classes/mum/service/CalculatorServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/classes/mum/validator/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/classes/mum/validator/ValidatorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/config/springmvc-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/jsp/calculator.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/jsp/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab2_ServletCalculator/META-INF/MANIFEST.MF" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,104 +100,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/domain/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="52" />
-              <folding>
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-                <element signature="e#866#867#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
-                <element signature="e#923#924#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
-                <element signature="e#1092#1093#0" expanded="true" />
-                <element signature="e#1124#1125#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/validator/Validator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/validator/ValidatorImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="30" column="21" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="30" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/controller/CalculatorController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="51" column="5" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-              <folding>
-                <element signature="e#1562#1563#0" expanded="true" />
-                <element signature="e#1605#1606#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -148,7 +122,6 @@
         <option value="$PROJECT_DIR$/src/main/java/mum/controller/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/mum/service/ICalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/mum/service/CalculatorServiceImpl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/mum/domain/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/mum/validator/Validator.java" />
@@ -158,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/java/mum/controller/CalculatorController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -205,119 +179,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mum" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mum" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mum" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mum" type="462c0819:PsiDirectoryNode" />
-              <item name="validator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab2_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_ServletCalculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -434,16 +296,15 @@
       <workItem from="1563907946067" duration="643000" />
       <workItem from="1563923110363" duration="2976000" />
       <workItem from="1563934862799" duration="8056000" />
-      <workItem from="1564003405970" duration="1822000" />
+      <workItem from="1564003405970" duration="2592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13497000" />
+    <option name="totallyTimeSpent" value="14267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -491,28 +352,7 @@
     <entry file="jar://$MAVEN_REPOSITORY$/edu/mum/cs/mvcframework/1.0.0/mvcframework-1.0.0.jar!/mum/edu/framework/ConfigureServlet.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/config.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/calculator.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
@@ -527,10 +367,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/calculator.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mum/controller/CalculatorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding>
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1605#1606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mum/validator/ValidatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="21" selection-start-line="12" selection-start-column="7" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mum/validator/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -567,45 +456,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="153">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mum/validator/Validator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mum/validator/ValidatorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" column="21" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="30" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mum/controller/CalculatorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <element signature="e#1562#1563#0" expanded="true" />
-            <element signature="e#1605#1606#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
         </state>
       </provider>
     </entry>

@@ -30,7 +30,7 @@
 
 <h4>Calculator</h4>
 
-<form action="Calculator" method="post">
+<form action="calculatorResult" method="post">
     <input name="add1" type="text" size = "2" />+
     <input name="add2" type="text" size = "2"   />=
     <input name="sum" type="text" size = "4"  readonly />
