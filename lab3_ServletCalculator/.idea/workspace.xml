@@ -7,54 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35700b4-b51a-4e14-9386-80d9e9d54bda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lab2_ServletCalculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lib/javax.servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lib/javax.servlet.jsp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/controller/CalculatorController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/domain/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/service/CalculatorService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/service/CalculatorServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/validator/CalcValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/java/edu.mum/validator/CalcValidatorImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/resources/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/webapp/WEB-INF/jsp/calculator.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/webapp/WEB-INF/jsp/result.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/controller/CalculatorController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/domain/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/service/CalculatorService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/service/CalculatorServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/validator/CalcValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/classes/edu/mum/validator/CalcValidatorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/controller/CalculatorController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/domain/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/service/CalculatorService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/service/CalculatorServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/validator/CalcValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/classes/edu/mum/validator/CalcValidatorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/jsp/calculator.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/jsp/result.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/lib/mvcframework-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_MVCCalculator/target/lab2_MVCCalculator/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab2_ServletCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_ServletCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_StarbucksMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_StarbucksMVC/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -70,23 +25,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/calculator.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+            <state relative-caret-position="156">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/controller/CalculatorController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-              <folding>
-                <element signature="e#1562#1563#0" expanded="true" />
-                <element signature="e#1605#1606#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -127,40 +78,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mum/controller/CalculatorController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-servlet.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="510">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -243,8 +164,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,6 +231,15 @@
               <item name="lab3_ServletCalculator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mum" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3_ServletCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3_ServletCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -348,7 +278,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2_ServletCalculator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Product04a" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -459,18 +389,19 @@
       <workItem from="1563923110363" duration="2976000" />
       <workItem from="1563934862799" duration="8056000" />
       <workItem from="1564003405970" duration="2487000" />
-      <workItem from="1564006650542" duration="1030000" />
+      <workItem from="1564006650542" duration="4725000" />
+      <workItem from="1564104178515" duration="913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15192000" />
+    <option name="totallyTimeSpent" value="19800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,7 +416,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
@@ -517,17 +448,49 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/config.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="24" column="82" selection-start-line="24" selection-start-column="82" selection-end-line="24" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mum/validator/Validator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -543,15 +506,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/calculator.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="156">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="391">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -588,52 +551,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mum/service/CalculatorServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mum/controller/CalculatorController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-          <folding>
-            <element signature="e#1562#1563#0" expanded="true" />
-            <element signature="e#1605#1606#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        <state relative-caret-position="510">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="43" />
         </state>
       </provider>
     </entry>
