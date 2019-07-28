@@ -8,6 +8,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.SessionAttribute;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -20,7 +21,7 @@ public class AdviceServlet {
 	@Autowired
 	private AdviceService adviceService;
        
-	@GetMapping(value = "/adviceForm")
+	@GetMapping(value = {"/", "/adviceForm"})
 	public String getForm(Model model) {
  
 		Map< Integer, String> roastMap = adviceService.getAllRoast();
