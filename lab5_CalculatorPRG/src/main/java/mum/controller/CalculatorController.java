@@ -5,10 +5,12 @@ import mum.domain.Calculator;
 import mum.service.CalculatorService;
 import mum.validator.Validator;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.ui.Model;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -28,10 +30,10 @@ public class CalculatorController {
 	private Validator validator;
 
 	@RequestMapping(value={"/","/Calculator"} , method = RequestMethod.POST)
-	public String handleCalculator(Calculator calculator, HttpServletRequest request) {
+	public String handleCalculator(Calculator calculator, Model model, RedirectAttributes redirectAttributes) {
 		List<String> errors = validator.validate(calculator);
 		if (!errors.isEmpty()) {
-			request.setAttribute("error", errors);
+			model.addAttribute("error", errors);
 			return "calculator";
 
 		} else {
@@ -41,10 +43,23 @@ public class CalculatorController {
 			if (calculator.getMult1() != null && calculator.getMult2() != null) {
 				calculatorService.mult(calculator);
 			}
+			redirectAttributes.addFlashAttribute("calculator",calculator);
+			String message ="Good Work!!!";
+			redirectAttributes.addAttribute("greeting",message);
 
-			return "result";
+			return "redirect:/results";
 		}
 	}
+
+	@GetMapping("/results")
+	public String displayResult(Model model) throws Exception {
+		Calculator calc = (Calculator) ((ModelMap)model).get("calculator");
+		if(calc==null){
+			throw new Exception("Try Again");
+		}
+		return "result";
+	}
+
 
 	@RequestMapping(value={"/","/Calculator"} , method = RequestMethod.GET)
 	public String getCalculator(Calculator calculator){
