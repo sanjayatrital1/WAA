@@ -41,11 +41,11 @@ public class EmployeeController {
 			return "EmployeeForm";
 		}
 
-//		String[] suppressedFields = bindingResult.getSuppressedFields();
-//		if (suppressedFields.length > 0) {
-//			throw new RuntimeException("Attempt to bind fields that haven't been allowed in initBinder(): "
-//					+ StringUtils.addStringToArray(suppressedFields, ", "));
-//		}
+		String[] suppressedFields = bindingResult.getSuppressedFields();
+		if (suppressedFields.length > 0) {
+			throw new RuntimeException("Attempt to bind fields that haven't been allowed in initBinder(): "
+					+ StringUtils.addStringToArray(suppressedFields, ", "));
+		}
 
 		// save product here
 		MultipartFile image = emp.getImage();
@@ -54,7 +54,7 @@ public class EmployeeController {
 		//isEmpty means file exists BUT NO Content
 		if (image!=null && !image.isEmpty()) {
 			try {
-				image.transferTo(new File(rootDirectory+"\\image\\"+ emp.getId() + ".png"));
+				image.transferTo(new File(rootDirectory+"/image/"+ emp.getId() + ".png"));
 			} catch (Exception e) {
 				throw new FileNotFoundException("Unable to save image: " + image.getOriginalFilename() );
 			}
