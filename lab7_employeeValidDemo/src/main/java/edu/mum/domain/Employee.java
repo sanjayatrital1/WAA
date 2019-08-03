@@ -9,10 +9,13 @@ import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
+import javax.xml.bind.annotation.XmlRootElement;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.web.multipart.MultipartFile;
 
+@XmlRootElement
 public class Employee implements Serializable {
 	private static final long serialVersionUID = -908L;
 
@@ -27,6 +30,7 @@ public class Employee implements Serializable {
 	@NotEmpty(message = "Enter the last name")
 	private String lastName;
 
+	@JsonIgnore
 	private MultipartFile image;
 
 	@NotNull
