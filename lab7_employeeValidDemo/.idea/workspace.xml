@@ -8,21 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cfa44716-39cc-4e0d-a0d4-edac0eedc71c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/mum/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/domain/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/mum/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/mum/controller/EmployeeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/mum/domain/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/mum/domain/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lab7_employeeValidDemo.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/lab7_employeeValidDemo.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lab7_employeeValidDemo/WEB-INF/classes/edu/mum/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/lab7_employeeValidDemo/WEB-INF/classes/edu/mum/controller/EmployeeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lab7_employeeValidDemo/WEB-INF/classes/edu/mum/domain/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/lab7_employeeValidDemo/WEB-INF/classes/edu/mum/domain/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lab7_employeeValidDemo/WEB-INF/config/springmvc-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/lab7_employeeValidDemo/WEB-INF/config/springmvc-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/java/edu/mum/cs545/lab8employeevalidspringboot/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/java/edu/mum/cs545/lab8employeevalidspringboot/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/java/edu/mum/cs545/lab8employeevalidspringboot/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/java/edu/mum/cs545/lab8employeevalidspringboot/domain/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/java/edu/mum/cs545/lab8employeevalidspringboot/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/java/edu/mum/cs545/lab8employeevalidspringboot/domain/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/resources/templates/EmployeeDetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/resources/templates/EmployeeDetails.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/resources/templates/EmployeeForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8employeevalidspringboot/src/main/resources/templates/EmployeeForm.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -427,7 +412,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31096563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31096563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
