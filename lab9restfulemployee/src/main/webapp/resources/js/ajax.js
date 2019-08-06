@@ -24,20 +24,14 @@ $(document).ready(function() {
             error: function(XMLHttpRequest,  textStatus,  exception ){
 
                 if (XMLHttpRequest.responseJSON.errorType == "ValidationError") {
-                    // $('#errors').html("");
-                    // $("#errors").append( '<H3 align="center"> Error(s)!! <H3>');
-                    // $("#errors").append( '<p>');
 
                     var errorList = XMLHttpRequest.responseJSON.fieldErrors;
                     let errorMsg = "<p>";
                     $.each(errorList,  function(i,error) {
-                        // $("#errors").append( error.message + '<br>');
                         errorMsg = errorMsg+error.message;
                     });
                     errorMsg+= "</p>"
                     $('#errors').append(errorMsg);
-                    // $("#errors").append( '</p>');
-                    // $('#errors').show();
                 }
                 else {
                     alert(XMLHttpRequest.responseJSON.message);

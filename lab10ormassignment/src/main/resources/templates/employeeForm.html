@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th ="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Employee</title>
+</head>
+<body>
+
+<form th:action="@{/}" th:object="${employee}" method="post">
+
+    <ul th:if="${#fields.hasErrors('*')}">
+        <li th:each="err : ${#fields.errors('*')}" th:text="${err}" >Input
+            is incorrect</li>
+    </ul>
+
+<p>
+    First Name: <input th:field = "*{firstName}"/>
+</p>
+    <p>
+        Last Name: <input th:field = "*{lastName}"/>
+    </p>
+
+    <p>
+        Phone Number: <input th:field = "*{phone}"/>
+
+    </p>
+
+    <h3>Addresss:</h3>
+    <p>
+        Street: <input th:field = "*{address.street}"/>
+    </p>
+    <p>
+        City: <input th:field = "*{address.city}"/>
+
+    </p>
+    <p>
+        Zip Code: <input th:field = "*{address.zip}"/>
+    </p>
+
+    <input type="submit" value="Add Employee"/>
+
+
+</form>
+</body>
+</html>
